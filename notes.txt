@@ -1,0 +1,10 @@
+dependency->2tpes
+1. dev dependency-> generally in developing phase
+2. normal-> used in productions too
+
+
+package lock.json will lock a version and will keep a track of all the version
+
+we can recreate node mdules if we have package lock and package json by just entering npm install
+npx -> executing a package
+npx parcel index.html->helps executing index.html
